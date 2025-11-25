@@ -1,0 +1,1 @@
+# AzureSafety
